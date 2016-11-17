@@ -1,0 +1,28 @@
+---
+title: "Home"
+---
+
+<img src="img/rogilmore-2015.jpg" width=200px>
+
+## Affiliations & Contact Information
+
+Associate Professor of Psychology</br>
+Department of Psychology</br>
+114 Bruce V. Moore Building</br>
+The Pennsylvania State University</br>
+University Park, PA 16802
+
+**voice**: (814) 865-3664</br>
+**fax**: (814) 863-7002</br>
+**email**: rogilmore AT-SIGN psu DOT edu</br>
+**appointment scheduler**: http://doodle.com/rickgilmore</br>
+**Skype, Twitter, GitHub**: rogilmore</br>
+http://gilmore-lab.github.io</br>
+http://databrary.org</br>
+http://rick-gilmore.com
+
+## Bio
+
+Rick O. Gilmore is Associate Professor of Psychology and a Huck Institute of the Life Sciences Faculty Co-fund. He earned his bachelor's degree *magna cum laude* in Cognitive Science from [Brown University](http://www.brown.edu), and master's and doctoral degrees in Psychology from [Carnegie Mellon University](http://www.cmu.edu) where he participated in the [Center for the Neural Basis of Cognition (CNBC)](http://cnbc.cmu.edu) training program in cognitive neuroscience. Gilmore's research focuses on the development of visual perception and memory. He is particularly interested in the development of brain networks that enable perceivers to extract information about the layout of the environment, the shape of objects, and the speed and direction of self-movement from patterns of visual motion called optic flow. Gilmore is also keenly interested in developing tools and practices that make scientific research more open, transparent, and reproducible.
+
+From 2008 to 2014, Gilmore served as the founding Director of Human Imaging at Penn State's Social, Life, and Engineering Sciences Imaging Center [(SLEIC)](http://imaging.psu.edu). He has won the College of the Liberal Arts tenure-line faculty teaching award, leads the Human Developmental Neuroscience Initiative for the Child Study Center, and has had support for his research from the National Institutes of Health and the National Science Foundation. He is founding co-director of the [Databrary](http://databrary.org) digital data library and serves on the editorial board of [*Nature Scientific Data*](http://www.nature.com/sdata/).

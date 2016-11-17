@@ -1,0 +1,17 @@
+name: "Rick Gilmore's Site"
+navbar:
+  title: "Rick Gilmore"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "CV"
+      href: cv.html
+    - text: "Lab"
+      href: http://gilmore-lab.github.io
+output_dir: "www"
+output:
+  html_document:
+    theme: cosmo
+    highlight: textmate
+    include:
+      after_body: footer.html
