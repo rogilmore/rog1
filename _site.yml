@@ -1,6 +1,6 @@
 name: "Rick Gilmore's Site"
 navbar:
-  title: "Rick Gilmore"
+  title: "Rick Gilmore @ PSU"
   left:
     - text: "Home"
       href: index.html
@@ -8,6 +8,10 @@ navbar:
       href: cv.html
     - text: "Lab"
       href: http://gilmore-lab.github.io
+    - text: "Teaching"
+      href: teaching.html
+    - text: "Personal"
+      href: personal.html
 output_dir: "www"
 output:
   html_document:

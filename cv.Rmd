@@ -12,7 +12,7 @@ Gilmore, R.O., Adolph, K.E., & Millman, D.S. (2016). Curating identifiable data 
 
 Gilmore, R.O., Thomas, A.L., & Fesi, J.D (2016). Children's brain responses to optic flow vary by pattern type and motion speed. *PLoS ONE*. [doi: 10.1371/journal.pone.0157911](http://doi.org/10.1371/journal.pone.0157911). Materials on Databrary at [http://doi.org/10.17910/B7QG6W](http://doi.org/10.17910/B7QG6W).
 
-Gilmore, R.O., Adolph, K.E., & Millman, D.S. (2016). Transforming education research through open video data sharing. *Advances in Engineering Education*, *5*(2). [HTML](http://advances.asee.org/publication/transforming-education-research-through-open-video-data-sharing/).
+Gilmore, R.O., Adolph, K.E., Millman, D.S. & Gordon, A. (2016). Transforming education research through open video data sharing. *Advances in Engineering Education*, *5*(2). [HTML](http://advances.asee.org/publication/transforming-education-research-through-open-video-data-sharing/).
 
 Gilmore, R.O. (2016). From big data to deep insight in developmental science. *Wiley Interdisciplinary Reviews Cognitive Science, 7*(2), 112-126. [doi: 10.1002/wcs.1379](http://doi.org/10.1002/wcs.1379).
 
@@ -146,11 +146,15 @@ London: U.K. MRC Cognitive Development Unit.
 
 # Invited Talks
 
+Gilmore, R.O. (2017, January). An -ome of our own: Toward a more reproducible, robust, and insightful science of human behavior. Talk in the Penn State Social Data Analytics (SoDA) 501 Course. [HTML slides](https://rawgit.com/gilmore-lab/soda-2017-01-31/master/soda-2017-01-31.html)
+
 Gilmore, R.O. (2016, October). Go with the flow: The development of behavioral sensitivity and brain responses to optic flow. Talk at the Penn State Action club meeting. [HTML slides](http://rawgit.com/gilmore-lab/psu-action-club-2016-10-28/master/gilmore-action-club.html).
 
 Gilmore, R.O. (2016, October). The future of big data in developmental science. Talk given at a meeting of the Penn State Child Study Center (CSC) faculty. [HTML slides](http://rawgit.com/gilmore-lab/psu-child-study-ctr-talk-2016-10-28/master/gilmore-csc-talk.html).
 
 Gilmore, R.O. (2016, September). Donald Rumsfeld and the promise of a 'big data' science of human behavior. Talk given at a meeting of the Penn State Stochastic Modeling and Computational Statistics (SMACS) group, Department of Statistics. [HTML slides](https://rawgit.com/gilmore-lab/psu-stats-smacs-2016-talk/master/gilmore-smacs-2016-09-02.html).
+
+Gilmore, R.O., Adolph, K.E., & David Millman. (2016, May). To boldly go where no science... Talk given at the [New York University Reproducibility Symposium](https://reproduciblescience.org/nyu/events/reproducibility-symposium-2016/). [HTML slides](https://rawgit.com/databrary/presentations/master/nyu-data-science-reproducibility-16/be-bold.html#1)
 
 Gilmore, R.O. (2015, September). Experience matters: Measuring the microstructure of visual experience to better understand perceptual development. PSU Developmental Area Proseminar. [HTML](https://rawgit.com/psu-psychology/developmental/master/prosem/2015-09-16-gilmore/dev-prosem-2015-09-16.html). [Markdown](https://github.com/psu-psychology/developmental/blob/master/prosem/2015-09-16-gilmore/dev-prosem-2015-09-16.Rmd).
 
