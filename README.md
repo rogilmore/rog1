@@ -6,5 +6,6 @@ Files for Rick Gilmore's web site on [www.personal.psu.edu](http://www.personal.
 2. Connect to www.personal.psu.edu/rog1/www
     - Log on to PSU VPN (if off campus)
     - `smb://smb.pass.psu.edu/pass/users/r/o/rog1`
+    - Use: `rog1@dce.psu.edu` as login name.
 3. Copy local files to remote server
     - `cp -r ~/github/rogilmore/rog1/www/ /Volumes/rog1/www`
