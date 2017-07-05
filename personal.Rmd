@@ -18,6 +18,6 @@ Needless to say, I love to sing and dance. I'm also learning to play a number of
 
 I'm a bit of a techno-geek (Mac, iPhone, iPad), and play around with electronics from time to time -- you can say Arduino to me and I'll say Uno. 
 
-I am a ham (amateur) radio operator, General class, with callsign K3ROG. I enjoy ragchewing on the local 2m repeater, emergency/event communications, and am slowly learning the ins and outs of HF DXing using my new IC-7300.
+I am a ham (amateur) radio operator, Amateur Extra class, with callsign K3ROG. I enjoy ragchewing on the local 2m repeater with my Kenwood TH-D74 and Yaesu FT-60R HTs, emergency/event communications with my Kenwood TM-D710G, and am learning the ins and outs of HF DXing using my IC-7300. I think APRS is fun, too, and my next project will be building a [BitX 40](http://www.hfsigs.com/) QRP transceiver with some of my fellow hams from the [Nittany Amateur Radio Club](http://nittany-arc.net). 
 
 Finally, I keep a [blog](http://rick-gilmore.com) where I share poetry, essays, and occasionally photography.
